@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    comment
+-->
+<tag xmlns="urn">
+    <subtag>
+        <subsubtag attr1="a"
+            attr2="b"
+            attr3="c">
+        subsubtag text attr1 a
+        </subsubtag>
+        <subsubtag attr1="a"
+            attr2="b">
+        more subsubtag text
+        </subsubtag>
+    </subtag>
+    <subtag>
+        <subsubtag attr1="a"
+            attr2="b">
+        </subsubtag>
+        <subsubtag attr1="a"
+            attr2="b">
+        </subsubtag>
+    </subtag>
+</tag>
