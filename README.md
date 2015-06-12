@@ -13,13 +13,13 @@ The following XS syntax:
 ```
 
 translates to XML as:
-```
- <root>
- <child attribute="value">
- text
- </child>
- <child />
- </root>
+```xml
+<root>
+  <child attribute="value">
+    text
+  </child>
+  <child />
+</root>
 ```
 
 Tag names, attribute names and attribute values can be expanded automatically using the abbreviations map and $.
